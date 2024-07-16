@@ -1,0 +1,3 @@
+moscow:14000000
+beer-sheva:200000
+naharia:70000

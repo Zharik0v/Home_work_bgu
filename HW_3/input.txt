@@ -1,0 +1,5 @@
+Mike   : Math, DS, Art, English
+John   : History, DS
+Maria   : Art, Germany
+Lana   : Math, Science
+Kate   : Germany, Math, History
